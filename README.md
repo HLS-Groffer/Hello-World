@@ -1,2 +1,2 @@
 # Hello-World
-I'm new to GitHub. This is a tryout.
+I'm new to GitHub. This is a tryout. Everyone can do something here. This repository can be used as a message board.
